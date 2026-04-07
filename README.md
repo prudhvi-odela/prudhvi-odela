@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE" width="100%" alt="Banner"/>
-</p><h1 align="center">Hi, I'm Prudhvi Teja 👋</h1><p align="center">
+  <img src="https://raw.githubusercontent.com/prudhvi-odela/prudhvi-odela/main/banner.png" width="100%" alt="Prudhvi Teja Odela Banner"/>
+</p>
+
+<h1 align="center">Hi, I'm Prudhvi Teja Odela 👋</h1>
+
+<p align="center">
   <b>Bioinformatics Undergraduate | Aspiring Computational Biologist</b>
 </p><p align="center">
   Passionate about Genomics, RNA-Seq, Cancer Bioinformatics, and Data-Driven Biology.<br>
