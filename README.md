@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/prudhvi-odela/prudhvi-odela/main/file_00000000e7f471faa8e91a8680cab4f0.png" width="100%" alt="Prudhvi Teja Odela Banner"/>
 </p>
-
 <h1 align="center">Hi, I'm Prudhvi Teja Odela 👋</h1>
 
 <p align="center">
