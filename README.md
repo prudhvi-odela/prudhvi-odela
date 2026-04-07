@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prudhvi-odela/prudhvi-odela/main/banner.png" width="100%" alt="Prudhvi Teja Odela Banner"/>
+  <img src="https://raw.githubusercontent.com/prudhvi-odela/prudhvi-odela/main/file_00000000b76071faa1365773f7c6a176.png" width="100%" alt="Prudhvi Teja Odela Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Prudhvi Teja Odela 👋</h1>
