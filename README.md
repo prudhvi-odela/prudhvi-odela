@@ -136,24 +136,10 @@ Tools: HTML, CSS, JavaScript
 </table>
 ---
 
-📈 GitHub Stats
+## 🌍 Academic Goal
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prudhvi-odela&show_icons=true&theme=tokyonight"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvi-odela&layout=compact&theme=tokyonight"/>
-</p><p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=prudhvi-odela&theme=tokyonight"/>
-</p>
----
+I aim to pursue a Master's degree in Germany in Bioinformatics or Computational Biology, with a focus on genomics, transcriptomics, and cancer bioinformatics. Through my projects, I am developing practical experience in RNA-Seq, variant calling, and biological data analysis using Python, R, and Linux.
 
-🌍 Preparing for Germany
-
-> I am currently preparing for higher studies in Germany by building practical bioinformatics projects, learning German, and improving my computational biology skills.
-
-
-
-
----
 
 📫 Contact Me
 
